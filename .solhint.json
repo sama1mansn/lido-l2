@@ -11,7 +11,7 @@
     "func-visibility": [
       "warn",
       {
-        "ignoreConstructors": true
+        "ignoreConstructors": false
       }
     ],
     "lido/fixed-compiler-version": "error"
